@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.zorphia.y47"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Y47</name>
+<description>
+The official app for Y47.
+</description>
+    <author href="http://yasminfortyseven.tk" email="yasminfortyseven@gmail.com">
+        Yasmin Radine 
+    </author>
+
+</widget>
